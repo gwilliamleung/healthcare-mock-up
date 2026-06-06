@@ -7,3 +7,10 @@ With how Care Management Coordinator is currently structured, a significant port
 
 The Solution
 Using an extension based application, staff member would enter pieces of information once and the app automatically propagates that data to every relevant location it belongs. No longer will typing the same thing 4-5 times be needed. Furthermore, other repetitive nature has also been eliminated, such as choosing start to end dates and rewriting it in note section. Refer to demos in presentation below.
+
+## Demos
+
+### Demo 3: DME Medicare
+Auto changes EVERYTHING according to Medicare guidelines, scheduled dates, correct inclusion of items, NOTES, etc.
+
+![Demo 3: DME Medicare](<demo for dme.gif>)
