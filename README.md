@@ -1,16 +1,24 @@
-HealthEdge Workflow Automation
+# HealthEdge Workflow Automation
 
-A React-based healthcare adminnstrative tool that eliminates repetitive data entry - saving staff 45-60 minutes per day by allowing data to be written once and automatically populated wherever it's needed.
+> A React-based healthcare administrative tool that eliminates repetitive data entry — saving staff **45–60 minutes per day** by allowing data to be written once and automatically populated wherever it's needed.
 
-The Problem
-With how Care Management Coordinator is currently structured, a significant portion of our daily work hours is spent on repetitive, manual task, that while necessary, could be streamlined or expedited. So I created a hypothetical project for the solution leaving room for CMCs to accomplish more and free up mental bandwidth.
+📊 [View Full Presentation](https://docs.google.com/presentation/d/1gWXGxL3_MND8lfNFb6OixRRRCW-HoUvoryA1vvqaeyM/edit?usp=sharing)
 
-The Solution
-Using an extension based application, staff member would enter pieces of information once and the app automatically propagates that data to every relevant location it belongs. No longer will typing the same thing 4-5 times be needed. Furthermore, other repetitive nature has also been eliminated, such as choosing start to end dates and rewriting it in note section. Refer to demos in presentation below.
+---
+
+## The Problem
+
+With how Care Management Coordinators are currently structured, a significant portion of daily work hours is spent on repetitive, manual tasks that — while necessary — could be streamlined. This project proposes a solution that frees up CMCs to accomplish more and reduces mental bandwidth spent on data re-entry.
+
+## The Solution
+
+Staff enter a piece of information once and the app automatically propagates it to every relevant location. No more typing the same thing 4–5 times. Repetitive patterns like choosing start/end dates and rewriting them in the notes section are also eliminated.
+
+---
 
 ## Demos
 
 ### Demo 3: DME Medicare
-Auto changes EVERYTHING according to Medicare guidelines, scheduled dates, correct inclusion of items, NOTES, etc.
+Auto-populates everything according to Medicare guidelines — scheduled dates, correct item inclusion, notes, and more.
 
 ![Demo 3: DME Medicare](<demo for dme.gif>)
